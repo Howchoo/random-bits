@@ -1,0 +1,2 @@
+# raspberry-pi-midi-keyboard-synth
+This random bit contains a sample MIDI patch for use in our [Raspberry Pi MIDI keyboard synthesizer](https://howchoo.com/g/zmm2zdi3ody/raspberry-pi-midi-keyboard-synthesizer) guide!
